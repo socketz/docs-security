@@ -62,3 +62,7 @@ All the security related in gitbook and other formats.
 - https://book.redteamguides.com/
 - https://book.blueteamguides.com
 - https://hackingthe.cloud/
+
+## Suggestions
+
+If you know of any other links related to security documentation in a similar format, create an issue and I'll check them out. Thanks
