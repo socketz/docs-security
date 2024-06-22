@@ -63,6 +63,11 @@ All the security related in gitbook and other formats.
 - https://book.blueteamguides.com
 - https://hackingthe.cloud/
 - https://ir0nstone.gitbook.io/
+- https://tenaka.gitbook.io/pentesting
+- https://exploit-pack.gitbook.io/
+- https://gabb4r.gitbook.io/
+- https://kashz.gitbook.io/
+- https://d0pt3x.gitbook.io/
 
 ## Suggestions
 
