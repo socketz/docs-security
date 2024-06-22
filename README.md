@@ -62,6 +62,7 @@ All the security related in gitbook and other formats.
 - https://book.redteamguides.com/
 - https://book.blueteamguides.com
 - https://hackingthe.cloud/
+- https://ir0nstone.gitbook.io/
 
 ## Suggestions
 
