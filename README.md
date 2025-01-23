@@ -24,6 +24,8 @@ All the security related in gitbook and other formats.
 - https://ired.team/
 - https://pentestbook.six2dez.com/
 - https://swisskyrepo.github.io/PayloadsAllTheThings/
+- https://swisskyrepo.github.io/InternalAllTheThings/
+- https://swisskyrepo.github.io/HardwareAllTheThings/
 - https://exploit-notes.hdks.org/
 - https://kwcsec.gitbook.io/the-red-team-handbook/
 - https://dmcxblue.gitbook.io/red-team-notes/
@@ -76,15 +78,20 @@ All the security related in gitbook and other formats.
 
 - https://lolol.farm/ - All LoL style projects
 - https://lolbas-project.github.io/ - Living Off The Land Binaries, Scripts and Libraries
-- https://gtfobins.github.io/ - Get The F*** Out of unix BINarieS
+- https://gtfobins.github.io/ - Get The Fucking Out of unix BINarieS
 - https://www.loobins.io/ - Living Off the Orchard: macOS Binaries (LOOBins)
-- https://gtfoargs.github.io/ - Get The F*** Out of Arguments (an extension of GTFOBins?)
+- https://gtfoargs.github.io/ - Get The Fucking Out of Arguments (an extension of GTFOBins?)
 - https://lots-project.com/ - Living Off Trusted Sites (LOTS) Project
 - https://lolapps-project.github.io/ - Living Off The Land Applications
 - https://lofl-project.github.io/ - Living Off The Foreign Land Cmdlets and Binaries
 - https://lothardware.com.tr/ - Living Off The Hardware Project 🧰
 - https://sploitify.haxx.it/ - Curated list of public server-side exploits
 - https://boostsecurityio.github.io/lotp/ - Living Off The Pipeline
+- https://github.com/WithSecureLabs/lolcerts - Living Off The LandLeaked Certificates (LoLCerts)
+- https://lolesxi-project.github.io/LOLESXi/ - Living Off The Land ESXi
+- https://lolbins-ctidriven.vercel.app/ - LOLBins CTI-Driven (Living-Off-the-Land Binaries Cyber Threat Intelligence Driven)
+- https://malapi.io/ - MalAPI.io maps Windows APIs to common techniques used by malware.
+- https://hijacklibs.net/ - DLL Hijacking is, in the broadest sense, tricking a legitimate/trusted application into loading an arbitrary DLL 
 
 ### Post-exploitation
 - https://hijacklibs.net/ - DLL Hijacking candidate list
