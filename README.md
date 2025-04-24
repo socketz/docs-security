@@ -29,6 +29,7 @@ All the security related in gitbook and other formats.
 - https://exploit-notes.hdks.org/
 - https://kwcsec.gitbook.io/the-red-team-handbook/
 - https://dmcxblue.gitbook.io/red-team-notes/
+- https://dmcxblue.gitbook.io/red-team-notes-2-0/
 - https://security-links.hdks.org/
 - https://www.crackmapexec.wiki/
 - https://www.crackmapexec.wiki/other-gitbook
