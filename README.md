@@ -75,6 +75,34 @@ All the security related in gitbook and other formats.
 - https://kashz.gitbook.io/
 - https://d0pt3x.gitbook.io/
 - https://www.221bluestreet.com
+- https://atorrescogollo.gitbook.io/ (Spanish)
+- https://vulnableone.gitbook.io/
+- https://docs.specterops.io/
+- https://0xss0rz.gitbook.io/
+- https://hackermater.gitbook.io/
+- https://sashiprabhaktk.gitbook.io/
+- https://wiki.securiters.com/ (Spanish)
+- https://x3m1sec.gitbook.io/
+- https://f1shh.gitbook.io/
+- https://spartan-cybersecurity.gitbook.io/
+- https://darshan-2.gitbook.io/
+- https://faresbltagy.gitbook.io/
+- https://rootguard.gitbook.io/
+- https://bellingcat.gitbook.io/
+- https://mrm8brh.gitbook.io/
+- https://apuntes-ciberseguridad-cibaism.gitbook.io/ (Spanish)
+- https://gurpreet-notes.gitbook.io/
+- https://0xmedhat.gitbook.io/
+- https://karim-ashraf.gitbook.io/
+- https://0xb0b.gitbook.io/
+- https://mahmoud-shaker.gitbook.io/
+- https://walterdrake.gitbook.io/
+- https://intrusionz3r0.gitbook.io/
+- https://zerophoenix.gitbook.io/
+
+### Commercial Tools
+- https://docs.scanner.dev/
+- https://docs.onum.com/
 
 ## LOL style
 
