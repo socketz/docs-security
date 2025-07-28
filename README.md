@@ -74,6 +74,7 @@ All the security related in gitbook and other formats.
 - https://gabb4r.gitbook.io/
 - https://kashz.gitbook.io/
 - https://d0pt3x.gitbook.io/
+- https://www.221bluestreet.com
 
 ## LOL style
 
